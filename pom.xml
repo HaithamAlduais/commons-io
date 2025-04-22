@@ -105,10 +105,7 @@ file comparators, endian transformation classes, and much more.
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <properties> <!----
-	  -->
-  <sonar.organization>haitham</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <commons.componentid>io</commons.componentid>
